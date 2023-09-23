@@ -12,4 +12,5 @@ The algorithm follows these steps:
 5. Steps 2-4 are repeated for a number of generations
 6. The best solution is chosen from the last generation
 
-![Screenshot (2)](https://github.com/maria-sirb/KMeansGeneticAlgorithm/assets/91878977/a0b14551-cf5a-44fc-a801-143ac940973e)
+![Screenshot (4)](https://github.com/maria-sirb/KMeansGeneticAlgorithm/assets/91878977/c887aa7c-e48d-4d6b-9a18-10155858a931)
+
