@@ -50,7 +50,8 @@ namespace MAPExamen
 
 
            }
-           population[0].DrawSolution();
+            SortPopulation();
+            population[0].DrawSolution();
 
 
         }
